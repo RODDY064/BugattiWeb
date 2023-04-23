@@ -329,7 +329,8 @@ footer{
     .img-box{
         width: 400px;
         height: 250px;
-        margin-top: 12px;
+        margin-top: 15px;
+        
         
     }
     .img-box img:hover {
@@ -368,6 +369,6 @@ footer{
 @media screen  and (width:414px){
     .img-box{
         width: 99%;
-        margin: 0px 5px 0px 5px;
+        margin: 17px 5px 0px 5px;
     }
 }
